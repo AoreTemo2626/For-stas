@@ -1,0 +1,12 @@
+.llololo{
+    width: 200px;
+    height: 200px;
+    border: black;
+    margin-right: 20px;
+    background-color: black;
+    
+}
+.click :hover{
+background-color: blue;
+transition: background 1s ease;
+}
